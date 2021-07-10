@@ -7,7 +7,7 @@
 - 문제 : 2019년 2월 28일까지의 카드 거래 데이터를 이용해 2019년 3월 1일 ~ 5월 31일 까지의 상점별 3개월 총 매출 예측하기
 ---
 # 2. 데이터 소개
-[데이터 출처](https://dacon.io/competitions/official/140472/data) : DACON 
+[데이터 출처] : DACON(https://dacon.io/competitions/official/140472/data) 
 
 funda_train.csv : 모델 학습용 데이터
 - store_id : 상점의 고유id
