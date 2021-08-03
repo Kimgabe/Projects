@@ -1,4 +1,4 @@
-" 예측결과 예시
+>예측결과 예시
 ![image](https://user-images.githubusercontent.com/74717033/128073005-a4cb5382-7b59-4e90-a37a-359254d69694.png)
 
 ---
