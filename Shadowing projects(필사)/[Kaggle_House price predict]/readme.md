@@ -25,4 +25,4 @@
 
 
 ### 제출 결과
-![image](https://user-images.githubusercontent.com/74717033/132853242-3c8e0d1b-07fe-4ff0-ba97-6bfb84f13ac2.png)
+![image](https://user-images.githubusercontent.com/74717033/132900295-f1d04a9e-d143-4860-9c5a-37a8a3bc1c57.png)
