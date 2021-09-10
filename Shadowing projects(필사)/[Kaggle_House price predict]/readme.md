@@ -22,3 +22,7 @@
 - MAE, MSE, RMSE 함수화
 - 모델별 RMSE 시각화
 - 기본 모델링 기반 blending 및 시각화
+
+
+### 제출 결과
+![image](https://user-images.githubusercontent.com/74717033/132853242-3c8e0d1b-07fe-4ff0-ba97-6bfb84f13ac2.png)
