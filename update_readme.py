@@ -20,14 +20,14 @@ def extract_number(folder_name):
 
 # README.md 파일을 업데이트하는 함수
 def update_readme(repo, folders, original_content):
-    # 기존 "## 📑Quest List📑" 섹션과 그 이하 내용을 제거
+    # 기존 "## 📑Project List📑" 섹션과 그 이하 내용을 제거
     start_index = original_content.find("## 📑Quest List📑")
     if start_index != -1:
         original_content = original_content[:start_index]
 
-    # 새로운 "## 📑Quest List📑" 섹션 및 테이블을 생성
-    new_table = "## 📑Quest List📑\n\n"
-    new_table += "| 퀘스트명 | URL |\n"
+    # 새로운 "## 📑Project List📑" 섹션 및 테이블을 생성
+    new_table = "## 📑Project List📑\n\n"
+    new_table += "| 프로젝트명 | URL |\n"
     new_table += "| --- | --- |\n"
 
     # 폴더를 숫자로 정렬하여 목록을 만듭니다.
@@ -42,7 +42,7 @@ def update_readme(repo, folders, original_content):
     return updated_content
 
 # GitHub 저장소와 폴더 목록을 설정
-repo = "Kimgabe/AIFFEL_Online_Quest"
+repo = "Kimgabe/Projects"
 
 # 기존 README.md 내용을 읽어옵니다.
 with open("README.md", "r") as file:
